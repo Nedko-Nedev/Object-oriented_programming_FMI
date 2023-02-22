@@ -2,7 +2,7 @@
 using std::cin;
 using std::cout;
 using std::endl;
-
+test test
 int getNum(const int* arr, int n, char ch) 
 {
 	int br = 0;
